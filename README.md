@@ -2,6 +2,7 @@
 
 <p align="center"><img width="50%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p>
 
+---
 
 <p algin="center">
 

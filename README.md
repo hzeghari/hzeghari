@@ -26,7 +26,7 @@
 <br />
 
 <a href="https://github.com/hzeghari">
-  <img align="left" width="400" src="https://github-readme-stats.vercel.app/api?username=hzeghari&count_private=true&show_icons=true&theme=onedark&hide=stars" alt="Hamza's github stats" />
+  <img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=hzeghari&count_private=true&show_icons=true&theme=onedark&hide=stars" alt="Hamza's github stats" />
 </a>
 <a href="https://github.com/hzeghari">
   <img align="left" width="290" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hzeghari&layout=compact&theme=react" alt="Top languages" />

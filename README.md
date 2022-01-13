@@ -7,7 +7,7 @@
 </p>
   
 <p align="center">
-  <a href="https://app.daily.dev/hzeghari"><img src="https://github.com/rebelchris/hzeghari/blob/main/devcard.svg" width="400" alt="Hamza Zeghari's Dev Card"/></a>
+  <a href="https://app.daily.dev/hzeghari"><img src="https://github.com/hzeghari/hzeghari/blob/main/devcard.svg" width="400" alt="Hamza Zeghari's Dev Card"/></a>
 </p>
 
 ## Languages and Tools:

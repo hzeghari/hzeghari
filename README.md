@@ -2,12 +2,16 @@
 
 <p align="center"><img width="50%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p> -->
 
-<p align="center">
+<p>
+
+<p align="left">
 <img display="flex" align="center" justify-content="center" width="500" src="https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%20build%20things%20for%20the%20web%20%F0%9F%8E%A8%F0%9F%92%BB%E2%9D%A4%EF%B8%8F&title=Hey%2C%20I%27m%20Hamza%20%F0%9F%91%8B" />
 </p>
   
-<p align="center">
+<p align="right">
   <a href="https://app.daily.dev/hzeghari"><img src="https://github.com/hzeghari/hzeghari/blob/main/devcard.svg" width="400" alt="Hamza Zeghari's Dev Card"/></a>
+</p>
+
 </p>
 
 ## Languages and Tools:
@@ -18,14 +22,14 @@
 <img align="left" alt="Sass" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
 <img align="left" alt="JavaScript" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 <img align="left" alt="React" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
-<img align="left" alt="tailwind" width="32px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" />
+<img align="left" alt="Tailwind" width="32px" src="https://tailwindcss.com/_next/static/media/tailwindcss-mark.cb8046c163f77190406dfbf4dec89848.svg" />
 <img align="left" alt="styled-components" width="32px" src="https://styled-components.com/logo.png"/>
 <img align="left" alt="GitHub" width="32px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Visual Studio Code" width="32px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="Nodejs" width="32px" src="https://img.icons8.com/color/54087/nodejs.png" />
 <img align="left" alt="mongodb" width="32px" src="https://img.icons8.com/color/48/000000/mongodb.png"/>
-<img align="left" alt="figma" width="32px" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
-<img align="left" alt="wordpress" width="32px" src="https://img.icons8.com/color/48/000000/wordpress.png"/>
+<img align="left" alt="Figma" width="32px" src="https://img.icons8.com/color/48/000000/figma--v1.png"/>
+<img align="left" alt="Wordpress" width="32px" src="https://img.icons8.com/color/48/000000/wordpress.png"/>
 <br><br>
 <br />
 

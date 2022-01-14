@@ -5,9 +5,9 @@
 
 <p float="left">
 
-<a href="https://app.daily.dev/hzeghari"><img align="left" src="https://github.com/hzeghari/hzeghari/blob/main/devcard.svg" width="300" alt="Hamza Zeghari's Dev Card"/></a>
+<a href="https://app.daily.dev/hzeghari"><img src="https://github.com/hzeghari/hzeghari/blob/main/devcard.svg" width="300" alt="Hamza Zeghari's Dev Card"/></a>
 
-<a><img align="left" width="400" src="https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%20build%20things%20for%20the%20web%20%F0%9F%8E%A8%F0%9F%92%BB%E2%9D%A4%EF%B8%8F&title=Hey%2C%20I%27m%20Hamza%20%F0%9F%91%8B"/>
+<a><img width="400" src="https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%20build%20things%20for%20the%20web%20%F0%9F%8E%A8%F0%9F%92%BB%E2%9D%A4%EF%B8%8F&title=Hey%2C%20I%27m%20Hamza%20%F0%9F%91%8B"/>
 </a>
 
 </p>

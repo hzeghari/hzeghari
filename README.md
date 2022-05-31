@@ -56,7 +56,7 @@
     <a href="#"><img alt="Heroku" src="https://img.shields.io/badge/Heroku-2c292d.svg?style=for-the-badge&logo=heroku&logoColor=ffffff"></a>
     <a href="#"><img alt="MySQL" src="https://img.shields.io/badge/MySQL-2c292d?style=for-the-badge&logo=mysql&logoColor=ffffff"></a>
     <a href="#"><img alt="Firebase" src ="https://img.shields.io/badge/Firebase-2c292d.svg?style=for-the-badge&logo=firebase&logoColor=ffffff"></a>
-    <a href="#"><img alt="Microsoft Azure" src ="https://img.shields.io/badge/Microsoft_Azure-2c292d?style=for-the-badge&logo=microsoft-azure&logoColor=ffffff"></a>
+   
 </p>
 
 ##### 💪 Software and Tools

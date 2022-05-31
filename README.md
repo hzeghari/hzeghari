@@ -16,7 +16,7 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=hzeghari&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
 
-<a href="https://github.com/hzeghari">
+<!-- <a href="https://github.com/hzeghari">
   <img align="left" width="420" src="https://github-readme-stats.vercel.app/api?username=hzeghari&count_private=true&show_icons=true&theme=onedark&hide=stars" alt="Hamza's github stats" />
 </a>
 <a href="https://github.com/hzeghari">
@@ -24,7 +24,7 @@
 </a>
 
 <br><br>
-<hr>
+<hr> -->
 
 <h2><img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px> My Skills</f2> 
 

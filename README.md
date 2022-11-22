@@ -3,9 +3,8 @@
 <p align="center"><img width="50%" src="https://github.com/alansmathew/alansmathew/raw/master/lang.gif" alt="lang image here" /></p> -->
 
 
-<p align="center">
-<img display="flex" align="center" justify-content="center" width="500" src="https://pimp-my-readme.webapp.io/pimp-my-readme/wavy-banner?subtitle=I%20build%20things%20for%20the%20web%20%F0%9F%8E%A8%F0%9F%92%BB%E2%9D%A4%EF%B8%8F&title=Hey%2C%20I%27m%20Hamza%20%F0%9F%91%8B" />
-</p>
+<h1 align="center">Hi 👋, I'm Hamza Zeghari</h1>
+<h3 align="center">Full-Stack Developer based in Casablana</h3>
 
 <!-- <p align="center">
 <a href="https://app.daily.dev/hzeghari"><img src="https://github.com/hzeghari/hzeghari/blob/main/devcard.svg" width="400" alt="Hamza Zeghari's Dev Card"/></a>

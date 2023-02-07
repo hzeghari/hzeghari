@@ -14,4 +14,4 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hzeghari&" alt="hzeghari" /></p>
 
 <h3 align="left">Github Stats :</h3>
-[![trophy](https://github-profile-trophy.vercel.app/?username=hzeghari&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)]
+[![trophy](https://github-profile-trophy.vercel.app/?username=hzeghari&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
